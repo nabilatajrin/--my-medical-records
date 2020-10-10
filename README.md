@@ -1,2 +1,2 @@
 # my-medical-records
-This android project is about keeping the history of all the doctors I visitted, and their prescriptions, appointment date etc.
+This android application is to keep the all medical records including the name of the doctor I've vissited, prescriptions, appointment dates etc.
