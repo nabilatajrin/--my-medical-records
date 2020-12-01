@@ -1,2 +1,2 @@
 # my-medical-records
-This android application is to keep the all medical records including the name of the doctor I've vissited, prescriptions, appointment dates etc.
+This repository contains an android application that keeps some necessary medical records including the name of the doctor the user has visited, saved prescriptions, appointment dates etc.
